@@ -168,6 +168,32 @@ Be stratigic in what you wanmt to index/follow. Set tags accordingly.
 
 ### Strategy: Structured Data (Schema) Markup
 Rich snippets 
+<img width="652" height="428" alt="Screenshot 2026-02-05 at 14 18 51" src="https://github.com/user-attachments/assets/30febb3f-71a4-44ea-a05e-ce17af71f5ae" />
+<img width="736" height="714" alt="Screenshot 2026-02-05 at 14 19 12" src="https://github.com/user-attachments/assets/93cfee09-6501-476c-adc1-02749ce9da04" />
 
+<img width="1334" height="416" alt="Screenshot 2026-02-05 at 14 24 48" src="https://github.com/user-attachments/assets/9afc3844-13df-4467-a4e7-c09523f3b388" />
+
+<img width="1334" height="416" alt="Screenshot 2026-02-05 at 14 28 28" src="https://github.com/user-attachments/assets/12dd9539-3272-425a-af55-fd8c012f3046" />
+
+
+### Walkthrough: Using Site Audit Tool to Find Indexing Issues
+<img width="1453" height="725" alt="Screenshot 2026-02-05 at 14 29 44" src="https://github.com/user-attachments/assets/7e5eb854-7211-44f7-ba29-51f1795cb78c" />
+<img width="1453" height="725" alt="Screenshot 2026-02-05 at 14 30 10" src="https://github.com/user-attachments/assets/93d6313a-3c14-4bf1-bf93-d503126eaad5" />
+<img width="1453" height="725" alt="Screenshot 2026-02-05 at 14 31 22" src="https://github.com/user-attachments/assets/7f1ccc9e-5337-47d0-94bd-19374f36b603" />
+
+
+You will see structuderd data by pages here: 
+<img width="1453" height="725" alt="Screenshot 2026-02-05 at 14 32 16" src="https://github.com/user-attachments/assets/7f7a1c60-309f-4eef-9b47-b63270919405" />
+
+
+### Core web vitals: Official ranking factor
+<img width="916" height="758" alt="Screenshot 2026-02-05 at 14 33 29" src="https://github.com/user-attachments/assets/f1feb545-e182-448d-b9e5-de8f3dc5db30" />
+
+<img width="1347" height="703" alt="Screenshot 2026-02-05 at 14 35 35" src="https://github.com/user-attachments/assets/89514ff9-368e-41ac-a77f-b0e12b3b164c" />
+
+<img width="1347" height="703" alt="Screenshot 2026-02-05 at 14 35 56" src="https://github.com/user-attachments/assets/f86aafe7-4940-4fea-bc8f-1bed39db5f3e" />
+
+You can use the Semrush audit tool to see the best way to do this. 
+<img width="602" height="703" alt="Screenshot 2026-02-05 at 14 37 16" src="https://github.com/user-attachments/assets/b2feda1c-c8b5-4149-a40f-c659b574ed13" />
 
 
