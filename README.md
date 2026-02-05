@@ -197,3 +197,10 @@ You can use the Semrush audit tool to see the best way to do this.
 <img width="602" height="703" alt="Screenshot 2026-02-05 at 14 37 16" src="https://github.com/user-attachments/assets/b2feda1c-c8b5-4149-a40f-c659b574ed13" />
 
 
+### Strategy: Security Certificates & HTTPS
+<img width="845" height="233" alt="Screenshot 2026-02-05 at 14 46 46" src="https://github.com/user-attachments/assets/c52b05ba-6642-4d58-b033-ac731b7d15fd" />
+<img width="845" height="539" alt="Screenshot 2026-02-05 at 14 48 13" src="https://github.com/user-attachments/assets/0ca5a95e-e625-4b6a-bff1-d81452eafced" />
+
+
+
+
