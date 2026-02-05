@@ -153,6 +153,14 @@ Checking the dashboard and interperating data
 
 HTTP status codes 
 <img width="1117" height="1266" alt="image" src="https://github.com/user-attachments/assets/a5fdf6c1-4046-4627-991c-907941b94b84" />
+<img width="619" height="786" alt="Screenshot 2026-02-05 at 14 08 00" src="https://github.com/user-attachments/assets/4f7c43ea-089c-44a3-85ce-27e6783f90d2" />
+
+
+### Strategy: Robots Meta Tags
+Code that sits in webs html.
+<img width="1295" height="786" alt="Screenshot 2026-02-05 at 14 11 54" src="https://github.com/user-attachments/assets/3e0f47f4-3399-496c-9d1f-9c02bbf92f9f" />
+<img width="1295" height="786" alt="Screenshot 2026-02-05 at 14 12 04" src="https://github.com/user-attachments/assets/d10f9a17-5bb3-4086-b662-0cf7b63db370" />
+
 
 
 
