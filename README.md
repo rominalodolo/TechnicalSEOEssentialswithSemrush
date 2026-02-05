@@ -76,7 +76,23 @@ Find and fix broken links
 Dog tshirts website example. 
 Just saying - make your site, clear, locolisation (language for your audience), accesability, search the site: handsfree, voice and speach assistace. 
 <img width="1376" height="713" alt="Screenshot 2026-02-05 at 12 20 15" src="https://github.com/user-attachments/assets/e49c291f-5b75-4e2c-9f06-c708fc077cb2" />
+Desktop first audience, vs mobile first audience. 
+Humans and bots will crawl the site and making it compatibile for both. 
+Crawlability 
 
+Nav, links and how the site works. crawling goes to each page and checks each page to page to page. 
+
+Site map urls that exsist. 
+
+Ways to to this 
+Mode spider; 
+<img width="1437" height="765" alt="Screenshot 2026-02-05 at 12 27 05" src="https://github.com/user-attachments/assets/c8b0e496-e6b7-41ff-944e-b75868212bb7" />
+
+List mode and you can add in site map from there. they need to match. crawl and site maps. 
+
+<img width="1437" height="765" alt="Screenshot 2026-02-05 at 12 28 53" src="https://github.com/user-attachments/assets/ad7e1a1d-d435-4a73-b99a-2c83a90cff49" />
+
+If your page is not meant to be live then it shouldn't be indexed. 
 
 
 
