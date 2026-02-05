@@ -1,4 +1,4 @@
-<img width="606" height="663" alt="Screenshot 2026-02-05 at 12 35 33" src="https://github.com/user-attachments/assets/eb7f814f-b65c-464e-a1e3-b169d0f1b438" /># Technical SEO Essentials with Semrush
+# Technical SEO Essentials with Semrush
 [Technical SEO and AI Search Essentials with Semrush](https://www.semrush.com/academy/courses/techincal-seo-and-ai-search-essentials-with-semrush/lessons)
 90min video content 
 
