@@ -160,7 +160,14 @@ HTTP status codes
 Code that sits in webs html.
 <img width="1295" height="786" alt="Screenshot 2026-02-05 at 14 11 54" src="https://github.com/user-attachments/assets/3e0f47f4-3399-496c-9d1f-9c02bbf92f9f" />
 <img width="1295" height="786" alt="Screenshot 2026-02-05 at 14 12 04" src="https://github.com/user-attachments/assets/d10f9a17-5bb3-4086-b662-0cf7b63db370" />
+<img width="1312" height="359" alt="Screenshot 2026-02-05 at 14 13 47" src="https://github.com/user-attachments/assets/b820a960-d519-41c3-b764-dcfcc1a58cb6" />
+<img width="1312" height="359" alt="Screenshot 2026-02-05 at 14 13 55" src="https://github.com/user-attachments/assets/ad813d0d-f7df-4ced-98f9-384509b80de3" />
 
+Be stratigic in what you wanmt to index/follow. Set tags accordingly.
+
+
+### Strategy: Structured Data (Schema) Markup
+Rich snippets 
 
 
 
