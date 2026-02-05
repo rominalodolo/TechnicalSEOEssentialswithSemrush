@@ -227,12 +227,21 @@ Good practices for Al SEO:
 1. Review log files → see which bots visit & what they crawl.
 2. Check accessibility → ensure bots can read your content (not hidden in JS).
 3. Use structured data (aka Schema Markup) → label content for better context.
-4. Manage crawlers -> update robots.txt for ai bots
-
-
+4. Manage crawlers → update robots.txt for ai bots
+5. Check sever load → make sure it can handle heavier crawling
+6. Keep technical SEO string → clean code, mobile focused and speed.
 
 
 ### Walkthrough: Identifying LLM Optimization Opportunities with Site Audit
+Go to site auditvin the ai section 
+<img width="1447" height="746" alt="Screenshot 2026-02-05 at 15 02 10" src="https://github.com/user-attachments/assets/a54e4515-3c2a-425a-82f7-d1732cd067d3" />
+<img width="1447" height="746" alt="Screenshot 2026-02-05 at 15 04 44" src="https://github.com/user-attachments/assets/1c467859-8d70-4d34-82bf-a81a138a12f1" />
+<img width="1447" height="772" alt="Screenshot 2026-02-05 at 15 05 19" src="https://github.com/user-attachments/assets/833c4f98-617f-4835-9814-c42e451e7c6e" />
+<img width="1447" height="772" alt="Screenshot 2026-02-05 at 15 05 42" src="https://github.com/user-attachments/assets/58930d4d-4985-406b-bb61-1c1f75eea350" />
+
+Do both AI SEO and regular SEO
+<img width="1447" height="772" alt="Screenshot 2026-02-05 at 15 08 26" src="https://github.com/user-attachments/assets/4d18b0a1-b643-49ba-b7b9-3fd0484824bb" />
+
 
 
 
