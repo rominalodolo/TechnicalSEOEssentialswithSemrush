@@ -209,4 +209,26 @@ Go to the core vitals section.
 <img width="1389" height="746" alt="Screenshot 2026-02-05 at 14 51 39" src="https://github.com/user-attachments/assets/d35f47d2-ac8b-4d7a-9c56-420b9131cde8" />
 <img width="1389" height="746" alt="Screenshot 2026-02-05 at 14 52 56" src="https://github.com/user-attachments/assets/f5069f53-838d-494f-900a-e123167c19b2" />
 
+You can also generate different reports so you can share the info. 
+<img width="1447" height="746" alt="Screenshot 2026-02-05 at 14 54 06" src="https://github.com/user-attachments/assets/88875ae3-a8d6-428f-98c9-bcf8e5527158" />
+
+
+### Strategy: Technical SEO for AI Systems
+WHat does the content mean, how does it fit in. 
+
+
+
+### Walkthrough: Identifying LLM Optimization Opportunities with Site Audit
+
+
+
+### Expert: Technical AI SEO
+
+
+--- Course end ---
+
+
+## Certification Exam
+
+
 
