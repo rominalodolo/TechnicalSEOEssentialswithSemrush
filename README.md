@@ -214,7 +214,21 @@ You can also generate different reports so you can share the info.
 
 
 ### Strategy: Technical SEO for AI Systems
-WHat does the content mean, how does it fit in. 
+What does the content mean, how does it fit in. Not just good code and practice but we need to make sure the content also is valuable. 
+
+Three methodologies Al systems use: 
+
+1. Training crawlers: Collect data to train LLMs (e.g. GPTBot, GoogleOther).
+2. Index-building crawlers: Build custom indexes for Al responses (e.g. OAI-SearchBot, PerplexityBot).
+3. Live retrieval crawlers: Pull real-time info from external sources (e.g. Google, Bing).
+
+
+Good practices for Al SEO:
+1. Review log files → see which bots visit & what they crawl.
+2. Check accessibility → ensure bots can read your content (not hidden in JS).
+3. Use structured data (aka Schema Markup) → label content for better context.
+4. Manage crawlers -> update robots.txt for ai bots
+
 
 
 
