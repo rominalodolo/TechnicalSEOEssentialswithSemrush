@@ -243,15 +243,36 @@ Do both AI SEO and regular SEO
 <img width="1447" height="772" alt="Screenshot 2026-02-05 at 15 08 26" src="https://github.com/user-attachments/assets/4d18b0a1-b643-49ba-b7b9-3fd0484824bb" />
 
 
-
-
 ### Expert: Technical AI SEO
+The base line is the norm. You need to know and do basics. It's standard practice.
+
+Base line has risen. 
+Make sure your crawled content should not be with js. 
+Internal linking, architecture still very valuable. But now add the ai element. 
+
+
+### Conclusion:
+
+What you've mastered:
+• Peek behind any site and spot technical SEO issues.
+• Site architecture: Build logical pathways for users & bots.
+• Crawling & indexing: Control with sitemaps & meta tags.
+• Mobile-first: Optimize for Google's mobile priorities.
+• Core Web Vitals: Loading, responsiveness, stability.
+• Security: Identify & fix rank-hurting gaps.
+• Semrush Site Audit: Use a pro-grade diagnostic tool.
+
+
+<img width="3024" height="5350" alt="screencapture-semrush-academy-courses-techincal-seo-and-ai-search-essentials-with-semrush-lessons-lesson-20-step-1-2026-02-05-15_16_34 (1)" src="https://github.com/user-attachments/assets/87154237-6c5a-47ba-b0b4-19413426d77f" />
 
 
 --- Course end ---
 
 
 ## Certification Exam
+
+Tag @semrush and @ritacidre
+
 
 
 
