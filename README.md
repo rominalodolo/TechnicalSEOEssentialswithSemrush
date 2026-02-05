@@ -131,4 +131,26 @@ You can also submit the updated xmls to google seach so they have the most updat
 ### Walkthrough: Using Site Audit Tool to Find Crawlability Issues
 <img width="1512" height="732" alt="Screenshot 2026-02-05 at 12 43 52" src="https://github.com/user-attachments/assets/6a812fe7-67ed-48d5-89a7-ab7bf6b64122" />
 
+Checking the dashboard and interperating data
+<img width="1512" height="732" alt="Screenshot 2026-02-05 at 13 57 07" src="https://github.com/user-attachments/assets/0aa6c423-3961-4aae-b790-320d8a40ceb3" />
+<img width="1512" height="732" alt="Screenshot 2026-02-05 at 13 57 38" src="https://github.com/user-attachments/assets/03499d88-33c2-484c-9d3f-5d1624b9706d" />
+<img width="1512" height="732" alt="Screenshot 2026-02-05 at 12 43 52" src="https://github.com/user-attachments/assets/2e6a775c-8859-4b9f-bbff-35bf870ad356" />
+<img width="1512" height="732" alt="Screenshot 2026-02-05 at 13 58 08" src="https://github.com/user-attachments/assets/5f7475de-7aad-4a2f-b6d0-fe1324bfb9f0" />
+
+<img width="1512" height="732" alt="Screenshot 2026-02-05 at 14 01 02" src="https://github.com/user-attachments/assets/f6ca0b49-4a09-4e33-9369-b3fabdc56293" />
+
+<img width="1512" height="732" alt="Screenshot 2026-02-05 at 14 01 15" src="https://github.com/user-attachments/assets/487447c0-0e37-4a0c-a144-9c262b3b937f" />
+
+<img width="1512" height="732" alt="Screenshot 2026-02-05 at 14 01 22" src="https://github.com/user-attachments/assets/b262d2ca-db5e-480a-aa27-613b53e00a0c" />
+
+<img width="1512" height="732" alt="Screenshot 2026-02-05 at 14 01 59" src="https://github.com/user-attachments/assets/6ef6aa27-58a8-43a7-a4c8-df8019cd4d21" />
+
+<img width="1512" height="732" alt="Screenshot 2026-02-05 at 14 02 06" src="https://github.com/user-attachments/assets/d514d63d-4f2c-468d-8f60-45b5f00b6280" />
+
+### Strategy: Indexing
+
+<img width="1512" height="732" alt="Screenshot 2026-02-05 at 14 04 47" src="https://github.com/user-attachments/assets/31210c26-526a-4a63-91b9-ec7f10b4238d" />
+
+
+
 
