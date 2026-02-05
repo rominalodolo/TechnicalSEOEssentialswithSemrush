@@ -1,4 +1,4 @@
-# Technical SEO Essentials with Semrush
+<img width="606" height="663" alt="Screenshot 2026-02-05 at 12 35 33" src="https://github.com/user-attachments/assets/eb7f814f-b65c-464e-a1e3-b169d0f1b438" /># Technical SEO Essentials with Semrush
 [Technical SEO and AI Search Essentials with Semrush](https://www.semrush.com/academy/courses/techincal-seo-and-ai-search-essentials-with-semrush/lessons)
 90min video content 
 
@@ -93,6 +93,30 @@ List mode and you can add in site map from there. they need to match. crawl and 
 <img width="1437" height="765" alt="Screenshot 2026-02-05 at 12 28 53" src="https://github.com/user-attachments/assets/ad7e1a1d-d435-4a73-b99a-2c83a90cff49" />
 
 If your page is not meant to be live then it shouldn't be indexed. 
+
+Keep updates minimal like urls the crawer hates that update. 
+but always update content and keep links working and updated. 
+
+Optimising the same page is better than making new pages. 
+
+Look at the key words for seaching - what works better. 
+
+### Strategy: XML Sitemaps
+<img width="1437" height="765" alt="Screenshot 2026-02-05 at 12 34 52" src="https://github.com/user-attachments/assets/8bbd5973-ed8b-42bb-b2c9-a07dfa5e441c" />
+
+<img width="606" height="663" alt="Screenshot 2026-02-05 at 12 35 33" src="https://github.com/user-attachments/assets/97a2b64b-8346-4d82-aede-7fc47e7b6e98" />
+
+Check your sites xml you can just add `/sitemap.xml`vto the end of your url
+<img width="1474" height="663" alt="Screenshot 2026-02-05 at 12 38 05" src="https://github.com/user-attachments/assets/0e55c887-43df-48ec-b085-82a97ee90072" />
+
+<img width="1474" height="663" alt="Screenshot 2026-02-05 at 12 37 46" src="https://github.com/user-attachments/assets/bde0f188-3ba4-495b-87f4-f06f9ec5c44d" />
+
+<img width="1474" height="663" alt="Screenshot 2026-02-05 at 12 38 33" src="https://github.com/user-attachments/assets/57355e0a-d734-45ed-b090-73ecc6c4bf65" />
+
+<img width="1474" height="663" alt="Screenshot 2026-02-05 at 12 39 02" src="https://github.com/user-attachments/assets/91aa6902-2936-48e6-b7a4-4a021a85204c" />
+
+<img width="1474" height="663" alt="Screenshot 2026-02-05 at 12 38 54" src="https://github.com/user-attachments/assets/d9f816cf-75c6-4eeb-aa99-955a9512308b" />
+
 
 
 
