@@ -201,6 +201,12 @@ You can use the Semrush audit tool to see the best way to do this.
 <img width="845" height="233" alt="Screenshot 2026-02-05 at 14 46 46" src="https://github.com/user-attachments/assets/c52b05ba-6642-4d58-b033-ac731b7d15fd" />
 <img width="845" height="539" alt="Screenshot 2026-02-05 at 14 48 13" src="https://github.com/user-attachments/assets/0ca5a95e-e625-4b6a-bff1-d81452eafced" />
 
+Mixed content issue.
 
+### Walkthrough: Using Site Audit to Find Core Web Vitals and HTTPS Issues
+Go to the core vitals section. 
+<img width="1389" height="746" alt="Screenshot 2026-02-05 at 14 50 53" src="https://github.com/user-attachments/assets/d8291825-138d-437f-b6a7-33f9acd7e303" />
+<img width="1389" height="746" alt="Screenshot 2026-02-05 at 14 51 39" src="https://github.com/user-attachments/assets/d35f47d2-ac8b-4d7a-9c56-420b9131cde8" />
+<img width="1389" height="746" alt="Screenshot 2026-02-05 at 14 52 56" src="https://github.com/user-attachments/assets/f5069f53-838d-494f-900a-e123167c19b2" />
 
 
