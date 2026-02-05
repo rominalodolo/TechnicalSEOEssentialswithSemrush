@@ -53,5 +53,16 @@ Choose a property - like your project.
 
 
 ### Strategy: Site Architecture
+<img width="806" height="713" alt="Screenshot 2026-02-05 at 12 04 29" src="https://github.com/user-attachments/assets/4f337979-1728-405e-a7a2-b1d967366177" />
+Each site allocated a crawl budget.
+
+Category pages - then goes into more details. This creates optimal crawl depth. 
+
+keep it not more than 3 clicks from the home page.
+
+<img width="1376" height="713" alt="Screenshot 2026-02-05 at 12 08 30" src="https://github.com/user-attachments/assets/4bd6440a-b422-4fd5-861e-53e9728dc24a" />
+
+
+<img width="1376" height="713" alt="Screenshot 2026-02-05 at 12 08 39" src="https://github.com/user-attachments/assets/fb437238-f1b0-4544-a0a3-83885587fa0e" />
 
 
