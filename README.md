@@ -1,11 +1,10 @@
 # Technical SEO Essentials with Semrush
 [Technical SEO and AI Search Essentials with Semrush](https://www.semrush.com/academy/courses/techincal-seo-and-ai-search-essentials-with-semrush/lessons)
+90min video content 
 
-
-
-Technical SEO Essentials with Semrush 
 
 <img width="672" height="652" alt="Screenshot 2026-02-05 at 11 38 26" src="https://github.com/user-attachments/assets/c2e88636-a2ee-470f-928a-105a50389e5c" />
+
 [Google sheet doc Copy](https://docs.google.com/spreadsheets/d/1vnU8WRIWEI1_m8Y2dVSwmTTSVOPvM57VWZKiQia-HNo/edit?gid=1366852703#gid=1366852703)
 
 
@@ -72,7 +71,12 @@ Find and fix broken links
 
 ![Screenshot 2026-02-05 at 12 11 10](https://github.com/user-attachments/assets/3dbb2571-e15a-4ccf-ac9a-619d980091cf)
 
-<img width="1376" height="713" alt="Screenshot 2026-02-05 at 12 11 10" src="https://github.com/user-attachments/assets/5ca2fbc1-0d06-4947-a0d0-e3e64cb1b7c8" />
+### Expert Advise: Site Structure
+
+Dog tshirts website example. 
+Just saying - make your site, clear, locolisation (language for your audience), accesability, search the site: handsfree, voice and speach assistace. 
+<img width="1376" height="713" alt="Screenshot 2026-02-05 at 12 20 15" src="https://github.com/user-attachments/assets/e49c291f-5b75-4e2c-9f06-c708fc077cb2" />
+
 
 
 
