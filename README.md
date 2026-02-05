@@ -151,6 +151,8 @@ Checking the dashboard and interperating data
 
 <img width="1512" height="732" alt="Screenshot 2026-02-05 at 14 04 47" src="https://github.com/user-attachments/assets/31210c26-526a-4a63-91b9-ec7f10b4238d" />
 
+HTTP status codes 
+<img width="1117" height="1266" alt="image" src="https://github.com/user-attachments/assets/a5fdf6c1-4046-4627-991c-907941b94b84" />
 
 
 
