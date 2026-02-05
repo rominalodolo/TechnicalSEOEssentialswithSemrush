@@ -70,4 +70,9 @@ BAD:  Broken internal links of orphans pages
 Find and fix broken links 
 <img width="1376" height="713" alt="Screenshot 2026-02-05 at 12 10 53" src="https://github.com/user-attachments/assets/e692535d-4a25-434c-83ff-d5049b4b6a50" />
 
+![Screenshot 2026-02-05 at 12 11 10](https://github.com/user-attachments/assets/3dbb2571-e15a-4ccf-ac9a-619d980091cf)
+
+<img width="1376" height="713" alt="Screenshot 2026-02-05 at 12 11 10" src="https://github.com/user-attachments/assets/5ca2fbc1-0d06-4947-a0d0-e3e64cb1b7c8" />
+
+
 
