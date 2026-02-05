@@ -270,8 +270,14 @@ What you've mastered:
 
 
 ## Certification Exam
+<img width="3024" height="3242" alt="screencapture-semrush-academy-courses-techincal-seo-and-ai-search-essentials-with-semrush-exam-learn-2026-02-05-15_20_22" src="https://github.com/user-attachments/assets/e95591d4-5157-43f7-a400-2f28e2fbba78" />
 
 Tag @semrush and @ritacidre
+
+
+#### Congratulations! You passed your exam.
+View the certification here!: https://static.semrush.com/academy/certificates/54abaf39a7/romina-lodolo_25.pdf
+
 
 
 
