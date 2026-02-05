@@ -1,4 +1,4 @@
-# TechnicalSEOEssentialswithSemrush
+# Technical SEO Essentials with Semrush
 [Technical SEO and AI Search Essentials with Semrush](https://www.semrush.com/academy/courses/techincal-seo-and-ai-search-essentials-with-semrush/lessons)
 
 
