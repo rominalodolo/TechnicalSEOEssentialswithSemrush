@@ -118,5 +118,17 @@ Check your sites xml you can just add `/sitemap.xml`vto the end of your url
 <img width="1474" height="663" alt="Screenshot 2026-02-05 at 12 38 54" src="https://github.com/user-attachments/assets/d9f816cf-75c6-4eeb-aa99-955a9512308b" />
 
 
+You can also submit the updated xmls to google seach so they have the most updated urls and structure. 
+
+
+### Walkthrough: Submitting an XML Sitemap to Google
+<img width="1474" height="663" alt="Screenshot 2026-02-05 at 12 42 13" src="https://github.com/user-attachments/assets/e4ff3fe7-979e-4728-8536-f3f98c8ccec3" />
+<img width="1474" height="663" alt="Screenshot 2026-02-05 at 12 42 20" src="https://github.com/user-attachments/assets/17c98be0-2f66-4ba8-ab88-8f323b44aefd" />
+<img width="1474" height="663" alt="Screenshot 2026-02-05 at 12 42 26" src="https://github.com/user-attachments/assets/526b2105-5d30-4ee5-8890-d3ba4abb8be5" />
+
+
+
+### Walkthrough: Using Site Audit Tool to Find Crawlability Issues
+<img width="1512" height="732" alt="Screenshot 2026-02-05 at 12 43 52" src="https://github.com/user-attachments/assets/6a812fe7-67ed-48d5-89a7-ab7bf6b64122" />
 
 
